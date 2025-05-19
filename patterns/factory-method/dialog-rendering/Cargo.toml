@@ -1,0 +1,4 @@
+[package]
+name = "dialog-rendering"
+version.workspace = true
+edition.workspace = true
