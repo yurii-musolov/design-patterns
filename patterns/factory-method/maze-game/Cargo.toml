@@ -1,0 +1,4 @@
+[package]
+name = "maze-game"
+version.workspace = true
+edition.workspace = true
