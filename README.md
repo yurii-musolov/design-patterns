@@ -8,4 +8,4 @@ These patterns provide various object creation mechanisms, which increase flexib
 
 *Factory Method* is a creational design pattern that provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
 
-Examples: [**Dialog Rendering**](patterns/factory-method/dialog-rendering/README.md)
+Examples: [**Dialog Rendering**](patterns/factory-method/dialog-rendering/README.md), [**Maze Game**](patterns/factory-method/maze-game/README.md)
