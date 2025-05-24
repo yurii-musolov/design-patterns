@@ -11,6 +11,10 @@ name = "dialog-rendering"
 version = "0.1.0"
 
 [[package]]
+name = "facade"
+version = "0.1.0"
+
+[[package]]
 name = "input-streams-decoration"
 version = "0.1.0"
 

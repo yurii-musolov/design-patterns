@@ -25,3 +25,9 @@ Examples: [**Adapter**](patterns/structural-patterns/adapter/README.md)
 *Decorator* is a structural design pattern that lets you attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors.
 
 Examples: [**Input streams decoration**](patterns/structural-patterns/input-streams-decoration/README.md)
+
+### Facade
+
+*Facade* is a structural design pattern that provides a simplified interface to a library, a framework, or any other complex set of classes.
+
+Examples: [**Facade**](patterns/structural-patterns/facade/README.md)
