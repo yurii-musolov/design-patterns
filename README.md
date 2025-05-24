@@ -19,3 +19,9 @@ These patterns explain how to assemble objects and classes into larger structure
 *Adapter* is a structural design pattern that allows objects with incompatible interfaces to collaborate.
 
 Examples: [**Adapter**](patterns/structural-patterns/adapter/README.md)
+
+### Decorator
+
+*Decorator* is a structural design pattern that lets you attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors.
+
+Examples: [**Input streams decoration**](patterns/structural-patterns/input-streams-decoration/README.md)
